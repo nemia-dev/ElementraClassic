@@ -13,14 +13,6 @@ Designed for **students, researchers, developers, writers, designers, creators, 
 
 ---
 
-## Preview
-
-![Elementra](screenshot.png)
-
-> **One vault. Six elements. A workspace shaped by the power of the elements.**
-
----
-
 # The Six Elements
 
 Elementra contains six distinct elemental worlds.
