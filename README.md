@@ -309,41 +309,19 @@ The Dark and Light screenshots showcase the Elementra visual system and its elem
 
 ---
 
-# Support ☕
+## Credits
 
-If you enjoy Elementra and want to support development:
+ElementraClassic is a community fork of
+[Elementra](https://github.com/CosmicSeaFox/Elementra),
+originally created by [CosmicSeaFox](https://github.com/CosmicSeaFox).
 
-<a href="https://www.buymeacoffee.com/CosmicSeaFox" target="_blank">
-<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
-alt="Buy Me a Coffee"
-height="60">
-</a>
+This fork preserves the original minimalist visual design
+while providing independent maintenance and improvements.
 
-<a href="https://ko-fi.com/cosmicseafox" target="_blank">
-<img src="https://ko-fi.com/img/githubbutton_sm.svg"
-alt="Ko-fi"
-height="60">
-</a>
-
----
-
-# Credits
-
-**Fonts**
-
+### Fonts
 - IBM Plex Sans
 - IBM Plex Mono
 
-**Visual Inspiration**
-
-Elementra is inspired by natural and cosmic phenomena including fire, water, wind, earth, lightning, black holes, atmospheric formations, geological structures, electrical discharges, and cosmic environments.
-
-Made for the Obsidian community.
-
----
-
-# License
-
-MIT License
-
-**Elementra — Six elements. One world.**
+### Visual Inspiration
+Inspired by natural and cosmic phenomena, including
+fire, water, wind, earth, lightning, and cosmic environments.
