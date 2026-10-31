@@ -154,7 +154,7 @@ Elementra will apply the selected elemental environment.
 
 Your notes, files, content, and vault structure remain unchanged.
 
-![Elementra Selector ](screenshots/style-settings.png)
+![Elementra Selector ](screenshots/style-settings-classic.png)
 
 ---
 
@@ -299,8 +299,10 @@ YourVault/.obsidian/themes/
 
 ```text
 screenshots/
-├── dark.png
-└── light.png
+├── dark-classic.png
+├── dark-classic.jpg
+├── light-classic.png
+└── style-settings-classic.png
 ```
 
 The Dark and Light screenshots showcase the Elementra visual system and its elemental environments.
