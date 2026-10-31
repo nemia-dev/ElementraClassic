@@ -44,13 +44,13 @@ Each element shares the same Elementra foundation while creating a completely di
 
 ## Elementra — Dark Mode
 
-![Elementra Dark Mode](screenshots/dark.png)
+![Elementra Classic Dark Mode](screenshots/dark-classic.png)
 
 A dark elemental environment showcasing the Elementra visual system.
 
 ## Elementra — Light Mode
 
-![Elementra Light Mode](screenshots/light.png)
+![Elementra Classic Light Mode](screenshots/light-classic.png)
 
 A clean light environment designed around the elemental system.
 
